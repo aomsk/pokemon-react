@@ -10,3 +10,10 @@
 ### **Pokemon API** 🥰
 
 👉 [pokeapi.co](https://pokeapi.co/)
+
+### **How To Run** 😘
+```
+cd pokemon-react
+npm install
+npm run dev
+```
