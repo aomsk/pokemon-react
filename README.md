@@ -1,5 +1,5 @@
 # Pokemon-react
-
+![pokemon-screen](https://raw.githubusercontent.com/aomsk/pokemon-react/main/src/assets/pokemon-screen.png)
 ### **Tech** 💪
 
 - Reactjs (Vite)
